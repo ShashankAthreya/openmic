@@ -110,7 +110,7 @@ footer {
 
 #intro .btn-danger,
 #contact .btn-danger {
-    background: #f2545f;
+    background: #30A6F0;
     border-color: transparent;
 }
 
@@ -304,7 +304,7 @@ footer {
 }
 
 #detail .fa {
-  color: #f2545f;
+  color: #30A6F0;
   font-size: 48px;
 }
 
@@ -404,7 +404,7 @@ footer {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #f2545f;
+  color: #30A6F0;
   cursor: default;
   background-color: transparent;
   border: 1px solid transparent;
@@ -440,7 +440,7 @@ footer {
 }
 
 #register input[type="submit"] {
-  background: #f2545f;
+  background: #30A6F0;
   border-radius: 100px;
   border: none;
   color: #ffffff;
@@ -598,7 +598,7 @@ footer {
 }
 
 #contact input[type="submit"]:hover {
-  background: #f2545f;
+  background: #30A6F0;
 }
 
 
@@ -630,7 +630,7 @@ footer {
 }
 
 .go-top:hover {
-    background: #f2545f;
+    background: #30A6F0;
     color: #ffffff;
 }
 
@@ -663,7 +663,7 @@ footer {
 }
 
 .social-icon li a:hover {
-    background: #f2545f;
+    background: #30A6F0;
     color: #ffffff;
 }
 
